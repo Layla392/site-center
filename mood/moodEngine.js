@@ -9,13 +9,13 @@ const fontMap = {
 };
 
 const moodMap = {
-  classic: "Arial",
-  fancy: "Dancing Script",
-  rose: "Great Vibes",
-  gothic: "UnifrakturCook",
+  demo: "Arial",
+  tuesday: "Dancing Script",
+  tuesday: "Great Vibes",
+  tay-tắm-máu: "UnifrakturCook",
   pixel: "Press Start 2P",
-  darkwine: "Cormorant Garamond",
-  tech: "Share Tech Mono"
+  tay-tắm-máu: "Cormorant Garamond",
+  demo-2: "Share Tech Mono"
 };
 
 function setMood(moodName) {
